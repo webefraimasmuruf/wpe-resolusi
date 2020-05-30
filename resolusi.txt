@@ -6,5 +6,5 @@ memahami kode ignitier3 php
 memahami code code ignitier4
 memperdalam if fo while
 memperdalam user access level
-memaj]hami join tablen pada php sql
+memahami join tablen pada php sql
 
